@@ -2,7 +2,7 @@
 
 ## Link the Weather
 
-YouTube Video: https://youtu.be/
+YouTube Video: https://youtu.be/Sz4RxQ8_czo
 
 Blazor Puzzle Home Page: https://blazorpuzzle.com
 
